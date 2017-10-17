@@ -6,4 +6,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 
 
---no-ff  git merge  learngit2
+--no-ff  gi	
+--no-ff  git merge   learngit
